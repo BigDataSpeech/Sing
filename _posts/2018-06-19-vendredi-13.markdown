@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "13 juillet 2018 (vendredi) : Découverte de l'estran"
-date:   2018-06-19
+date:   2018-06-10
 categories: Social events
 ---
 

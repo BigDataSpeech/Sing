@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chantons! (toute la semaine, concert jeudi, 12 juillet 2018)"
-date:   2018-06-19
+date:   2018-06-09
 categories: Social events
 ---
 
