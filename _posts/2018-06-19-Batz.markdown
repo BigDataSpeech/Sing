@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Sortie à l'Ile de Batz"
+title:  "Sortie à l'Ile de Batz (mardi le 10 juillet 2018)"
 date:   2018-06-19
 categories: Social events
 ---
 
 ## Qu'est-ce qu'on fait ?
 {:.no_toc}
-On visite l'île de Batz. 
+On visite l'île de Batz.
 
 ## Infos pratiques
 

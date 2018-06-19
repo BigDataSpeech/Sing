@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chantons!"
+title:  "Chantons! (concert le 12 juillet 2018)"
 date:   2018-06-19
 categories: Social events
 ---
