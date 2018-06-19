@@ -1,19 +1,54 @@
 ---
 layout: post
-title:  "Chantons!"
-date:   2018-06-19 08:43:50 +0200
-categories: Social events
+title:  "Entités nommées - Cours 1"
+date:   2017-12-28 11:38:36 +0100
+categories: cours
 ---
 
-## Qu'est-ce qu'on fait ?
+## Intro
 {:.no_toc}
+[Introduction aux systèmes de dialogue](https://sophierosset.github.io/docs/eidi-dhm.pdf)
 
-Le soir, nous nous retrouvons pour chanter ensemble. 
+## Plan
+{:.no_toc}
+* Table des matières
+{:toc}
 
-## Les documents
+### Première partie
+#### Première sous-partie
 
-- A la mer [PDF](/fichiers/a_la_mer.pdf)
-- L'âme des Marins [PDF](/fichiers/Lame_des_marins.pdf)
-- La mer, toujours la mer [PDF](/fichiers/Lamer_tj_la_mer.pdf)
-- Canto de Camdoble [PDF](/fichiers/canto_de_camdoble.pdf)
-- Distro Ar Gelted [PDF](/fichiers/distro_ar_gelted.pdf)
+- blablabla
+- blablabla
+- blablabla
+- blablabla
+
+#### Deuxième sous-partie
+
+- blablabla
+- blablabla
+- blablabla
+- blablabla
+
+
+### Deuxième partie
+#### Première sous-partie
+
+- blablabla
+- blablabla
+- blablabla
+- blablabla
+
+#### Deuxième sous-partie
+
+- blablabla
+- blablabla
+- blablabla
+- blablabla
+
+### Conclusion
+
+- blablabla
+- blablabla
+- blablabla
+- blablabla
+
