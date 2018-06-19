@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 juillet 2018 (mardi) : Sortie à l'Ile de Batz"
-date:   2018-06-19
+date:   2018-06-19  12:38:36 +0100
 categories: Social events
 ---
 
