@@ -21,7 +21,7 @@ Voici le contenu :
 - [L'apprentissage automatique ](https://bigdataspeech.github.io/Learn/)
 
 
- -[Les entités nommées](https://bigdataspeech.github.io/EN/)
+- [Les entités nommées](https://bigdataspeech.github.io/EN/)
 
 
 - [Chansons](https://bigdataspeech.github.io/Sing/)
