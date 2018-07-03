@@ -11,9 +11,13 @@ Le soir, nous nous retrouvons pour chanter ensemble.
 
 ## Les documents
 
-- A la mer [PDF](https://bigdataspeech.github.io/Sing//fichiers/a_la_mer.pdf)
+- On a la mer [PDF](https://bigdataspeech.github.io/Sing//fichiers/a_la_mer.pdf)
 - L'âme des Marins [PDF](https://bigdataspeech.github.io/Sing/fichiers/Lame_des_marins.pdf)
 - La mer, toujours la mer [PDF](https://bigdataspeech.github.io/Sing/fichiers/Lamer_tj_la_mer.pdf)
 - Canto de Camdoble [PDF](https://bigdataspeech.github.io/Sing/fichiers/canto_de_camdoble.pdf)
 - Distro Ar Gelted [PDF](https://bigdataspeech.github.io/Sing/fichiers/distro_ar_gelted.pdf)
+- Digorit Ho Kalon [PDF](https://bigdataspeech.github.io/Sing/fichiers/digorit_Ho_Kalon.pdf)
+- Mond davedoc'h [PDF](https://bigdataspeech.github.io/Sing/fichiers/Mond Davedoch.pdf)
+
+
 
